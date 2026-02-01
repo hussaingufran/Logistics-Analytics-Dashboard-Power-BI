@@ -32,26 +32,26 @@ The dashboard provides insights into revenue, orders, delivery performance, tran
 📈 Dashboard Features
 
 🔹 Sales & Revenue Analysis
-     - Monthly Revenue Trend
-     - Revenue by Customer
-     - Product-wise Revenue (Chemical A, B, C)
-     - Average Order Value
+ - Monthly Revenue Trend
+ - Revenue by Customer
+ - Product-wise Revenue (Chemical A, B, C)
+ - Average Order Value
 
 🔹 Logistics Operations
-     - Inbound vs Outbound Orders (Monthly)
-     - On-Time Delivery by Transport Mode
-     - Freight Cost by Road, Air, Rail
-     - Supplier-wise Inbound Quantity & Cost
+ - Inbound vs Outbound Orders (Monthly)
+ - On-Time Delivery by Transport Mode
+- Freight Cost by Road, Air, Rail
+- Supplier-wise Inbound Quantity & Cost
 
 🔹 Warehouse Management
-     - Warehouse Capacity by Location
-     - Utilization Analysis (Mumbai, Vapi, Ahmedabad)
-     - Location-based performance mapping
+ - Warehouse Capacity by Location
+ - Utilization Analysis (Mumbai, Vapi, Ahmedabad)
+ - Location-based performance mapping
 
 🔹 Interactive Navigation
-     - Page navigation buttons
-     - Drill-downs & slicers
-     - Clean and user-friendly UI
+- Page navigation buttons
+- Drill-downs & slicers
+- Clean and user-friendly UI
 
 📂 Dataset Information
 
